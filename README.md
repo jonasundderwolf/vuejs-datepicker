@@ -351,6 +351,7 @@ Available languages
 | is          | Icelandic        |          |
 | it          | Italian          |          |
 | ja          | Japanese         |          |
+| kk          | Kazakh           |          |
 | ko          | Korean           |          |
 | lb          | Luxembourgish    |          |
 | lt          | Lithuanian       |          |
