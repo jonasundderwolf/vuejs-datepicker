@@ -356,6 +356,7 @@ Available languages
 | lb          | Luxembourgish    |          |
 | lt          | Lithuanian       |          |
 | lv          | Latvian          |          |
+| mk          | Macedonian       |          |
 | mn          | Mongolian        |          |
 | nbNO        | Norwegian Bokmål |          |
 | nl          | Dutch            |          |
